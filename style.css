@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+.grey-bg {  
+    background-color: #F5F7FA;
+}
+.blue{
+    background-color: #2B3856;
+}
+.floatRight{float:center;height: 300px;width:300px;margin-left:200px}
+.icon-red {
+    color: red;
+  }
+  
+  .icon-large {
+    font-size: 10px;
+  }
+.icon-green{
+    color:rgb(33, 180, 33);
+}
+p.one {
+    word-spacing: 50px;
+  }
+.card:hover{
+    transform: scale(1.05);
+
+}
